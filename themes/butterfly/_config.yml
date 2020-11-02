@@ -373,7 +373,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: A website is built in JUST TWO DAYS
   copyright: true # Copyright of theme and framework
   ICP: # Chinese ICP License
     enable: false
@@ -596,8 +596,11 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 大三了，少点功夫做闲时
+    - 大三了，少点功夫做闲事
     - 即使再累，也要做点有趣的事
+    - 走自己的路，寻找自己的的答案
+    - 有一天一定会成为自己想成为的人
+
   
 
 # Loading Animation (加載動畫)
