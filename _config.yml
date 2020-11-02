@@ -45,7 +45,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 top_image: false
-cover: /image/back.jpeg
+cover: /image/cover.jpeg
 highlight:
   enable: true
   line_number: true
