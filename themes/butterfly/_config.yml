@@ -332,10 +332,10 @@ twikoo:
 
 # Chat Button [recommend]
 # It will create a button in the bottom right corner of website, and hide the origin button
-chat_btn: true
+chat_btn: false
 
 # The origin chat button is displayed when scrolling up, and the button is hidden when scrolling down
-chat_hide_show: true
+chat_hide_show: false
 
 # chatra
 # https://chatra.io/
@@ -373,7 +373,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:  A Website Built By SJTUer
+  custom_text:  A Website Which was Built in JUST TWO DAYS
   copyright: true # Copyright of theme and framework
   ICP: # Chinese ICP License
     enable: false
@@ -580,9 +580,9 @@ hr_icon:
 subtitle:
   enable: true
   # Typewriter Effect (打字效果)
-  effect: false
+  effect: true
   # loop (循環打字)
-  loop: false
+  loop: true
   # source調用第三方服務
   # source: false 關閉調用
   # source: 1  調用搏天api的隨機語錄（簡體） https://api.btstu.cn/
@@ -596,7 +596,10 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 一个聋人的社交平台
+    - 大三了，少点功夫做闲事
+    - 即使再累，也要做点有趣的事
+    - 走自己的路，寻找自己的的答案
+    - 有一天一定会成为自己想成为的人
 
   
 
@@ -617,11 +620,11 @@ aside:
     description:
     button:
       icon: fas fa-envelope
-      text: Mail To US!
+      text: Mail To Me
       link: mailto:peterlv@sjtu.edu.cn
   card_announcement:
     enable: false
-    content: '无声新视界'
+    content: 小吕吕的Blog
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
