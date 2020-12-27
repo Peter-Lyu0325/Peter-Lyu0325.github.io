@@ -1,5 +1,5 @@
 ---
-（htitle: 考研情况汇总表
+title: 考研情况汇总表
 date: 2020-11-06 23:33:04
 tags: 考研
 top_image: false
