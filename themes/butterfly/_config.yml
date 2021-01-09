@@ -582,7 +582,7 @@ subtitle:
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
-  loop: true
+  loop: false
   # source調用第三方服務
   # source: false 關閉調用
   # source: 1  調用搏天api的隨機語錄（簡體） https://api.btstu.cn/
@@ -596,9 +596,7 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 大三了，少点功夫做闲事
-    - 即使再累，也要做点有趣的事
-    - 走自己的路，寻找自己的的答案
+    - 一直走，去看世界的尽头
     - 有一天一定会成为自己想成为的人
 
   
