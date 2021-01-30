@@ -1,5 +1,5 @@
 ---
-，title: 《人类群星闪耀时》读书笔记
+title: 《人类群星闪耀时》读书笔记
 date: 2021-1-30 22:28:31
 tags: 读书笔记
 top_image: false
