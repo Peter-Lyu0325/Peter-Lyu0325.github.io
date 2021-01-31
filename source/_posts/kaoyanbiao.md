@@ -20,9 +20,9 @@ cover: /image/cover.jpeg
 
 其中还有一个附录表为2016-2019年交大所有人专业的报名人数，复试人数和录取人数。
 
-<br />
+<br />![avatar](image/source_img/biao.jpg)
 
-（还没学会怎么插入表格，先码在这里。
+<center> <font color=gray size=2>考研信息汇总表</font></center>
 
 
 
