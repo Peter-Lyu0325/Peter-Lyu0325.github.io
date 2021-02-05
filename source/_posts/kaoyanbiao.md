@@ -1,4 +1,6 @@
 ---
+
+
 title: 考研情况汇总表
 date: 2020-11-06 23:33:04
 tags: 考研
@@ -20,7 +22,11 @@ cover: /image/cover.jpeg
 
 其中还有一个附录表为2016-2019年交大所有人专业的报名人数，复试人数和录取人数。
 
-<hr />![avatar](/image/source_img/biao.jpg)
+
+
+<hr />
+
+![avatar](/image/source_img/biao.jpg)
 
 <center> <font color=gray size=2>考研信息汇总表</font></center>
 
