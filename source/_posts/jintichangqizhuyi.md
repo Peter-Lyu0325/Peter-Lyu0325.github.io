@@ -28,7 +28,7 @@ cover: /image/cover.jpeg
 
 
 
-![avatar](/image/cqzy/kt.jpg)
+![avatar](/image/cqzy/kt.jpeg)
 
 <center><font size=2>张坤恶搞图</font></center>
 
