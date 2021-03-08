@@ -152,7 +152,7 @@ MIT金融工程课程中第一课有位教授给了个有趣的题目。题目�
 
 
 
-![avatar](/image/cqzy/lgfb.png)
+![avatar](/image/cqzy/glfb.png)
 
 <center><font size=2>概率分布</font></center>
 
