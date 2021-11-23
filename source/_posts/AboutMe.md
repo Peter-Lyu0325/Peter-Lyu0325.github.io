@@ -1,7 +1,7 @@
 ---
 title: 关于我自己
-date: 2020-10-30 16:39:35
-tags: AboutMe
+date: 2020-10-30 19:37:35
+tags: 关于我自己
 top_image: false
 cover: /image/cover.jpeg
 sticky: 1
